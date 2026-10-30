@@ -1,4 +1,4 @@
-# Enterprise AI QA Governance & BDD Automation
+# Enterprise AI Driven Requirements To BDD Test Case Pipeline
 > **Eliminating the STLC Planning Bottleneck & Accelerating Engineering Delivery**
 
 ---
